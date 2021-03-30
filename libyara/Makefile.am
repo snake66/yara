@@ -22,6 +22,7 @@ MODULES += modules/elf/elf.c
 
 MODULES += modules/math/math.c
 
+MODULES += modules/semver/semver.c
 MODULES += modules/time/time.c
 
 MODULES += modules/pe/pe.c
